@@ -42,7 +42,7 @@ A smooth, modern, and responsive Starbucks-themed landing page built using **HTM
 
 ## 📚 What I Learned
 
-- DOM manipulation with JavaScript  
+- JavaScript Interactivity 
 - Event handling and responsive UI behavior  
 - CSS transitions and media queries  
 - Structuring reusable and scalable front-end components  
