@@ -20,7 +20,7 @@ A smooth, modern, and responsive Starbucks-themed landing page built using **HTM
 
 - **HTML5** – Page structure  
 - **CSS3** – Styling & responsive layout  
-- **JavaScript** – Interactivity and DOM manipulation  
+- **JavaScript** – Interactivity 
 
 ---
 
