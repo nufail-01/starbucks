@@ -1,4 +1,4 @@
-# 🌟 Starbucks Landing Page
+# 🥤 Starbucks Landing Page
 
 A smooth, modern, and responsive Starbucks-themed landing page built using **HTML, CSS, and JavaScript**. Inspired by the official Starbucks website, this project focuses on clean UI, seamless responsiveness, and light interactivity — perfect for showcasing front-end development skills.
 
