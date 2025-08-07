@@ -41,12 +41,3 @@ A smooth, modern, and responsive Starbucks-themed landing page built using **HTM
 
 ---
 
-## 📂 Project Structure
-starbucks-landing-page/
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│ ├── images/
-│ └── .gitkeep/
-└── README.md
