@@ -10,11 +10,7 @@ A smooth, modern, and responsive Starbucks-themed landing page built using **HTM
 
 ---
 
-## 📸 Screenshots
 
-![Landing Page Screenshot](link-to-screenshot-if-available)
-
----
 
 ## 🛠️ Tech Stack
 
