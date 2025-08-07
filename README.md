@@ -4,8 +4,12 @@ A smooth, modern, and responsive Starbucks-themed landing page built using **HTM
 
 ---
 
+## 🌐 Live Demo
 
+[![Website Preview](assets/images/eduford.png
+)](https://nufail-01.github.io/Eduford-University/)
 
+---
 
 ## 🛠️ Tech Stack
 
