@@ -38,8 +38,6 @@ A smooth, modern, and responsive Starbucks-themed landing page built using **HTM
 
 > "Every day, I'm exploring something new and crazy in the world of web development – and it's making my concepts clearer and creativity stronger."
 
-🎉 A special thanks to **Gravity Coding** for the amazing tutorial that guided me through this project.
-
 ---
 
 ## 📚 What I Learned
