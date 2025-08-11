@@ -43,6 +43,3 @@ A smooth, modern, and responsive Starbucks-themed landing page built using **HTM
 - Structuring reusable and scalable front-end components  
 - Importance of clean code and accessible design
 
----
-
----
